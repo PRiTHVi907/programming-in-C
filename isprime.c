@@ -13,11 +13,11 @@ int main(){
         }
     }
     //evaluvation of flag
-    if(isPrime && num>1){
-        printf("it is a prime number")
+    if(isPrime && n>1){
+        printf("it is a prime number");
     }
     else{
-        printf("it is NOT a prime number")
+        printf("it is NOT a prime number");
     }
     return 0;
 }
